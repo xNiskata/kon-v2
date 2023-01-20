@@ -7430,7 +7430,6 @@ break
         if (isCmd) {
           if (isBan) return reply(mess.banned);
           if (isBanChat) return reply(mess.bangc);
-          reply(`*Nooh Sorry That's the Wrong Command senpai!!*`);
         }
 
         if (budy.startsWith("=>")) {
