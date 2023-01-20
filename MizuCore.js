@@ -2007,7 +2007,7 @@ ${themeemoji} MessageType : ${m.mtype}`;
 
       case "support":
       case "supportgc":
-        reply(`*My developer's number :* +919172673114`);
+        reply(`*My developer's number :* +82327759039`);
         break;
 
       case "repo":
