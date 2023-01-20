@@ -76,7 +76,8 @@
   "xfarr-api": "^1.0.3",
   "util": "^0.12.4",
   "wa-sticker-formatter": "^3.6.0",
-  "yargs": "^17.2.1"
+  "yargs": "^17.2.1",
+  'ytdl-core': "4.11.2"
  },
  "directories": {
   "lib": "lib",
